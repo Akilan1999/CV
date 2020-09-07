@@ -8,6 +8,7 @@ Dubai,UAE
 - Github: https://github.com/Akilan1999
 - Website: Akilan.io
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Skills
 
 My vision is to contribute as much as I can to the scientific and future entrepreneur community regarding higher self sustainability.
@@ -35,7 +36,7 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 - Flask
 - Hugo
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Experience
 
@@ -58,6 +59,8 @@ https://ioe.hwtech.club/
 ### Dubai Holiday Camps / Assistant Teacher 
 July  2017 - July  2019,  DIA, Dubai
 My role as an assistant teacher was to just make sure that kids have as much fun as possible by getting involved in various sports such as Football, Baseketball , Tennis , Dodgeball etc...
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Education
 
