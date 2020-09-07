@@ -53,7 +53,7 @@ https://ioe.hwtech.club/
 
 ##### Back-end server : We work on ideas such as setting up our own servers  or even raspberry pi clusters for fun.   
 
-#### Drones : Writing python scripts for creating sequences of actions for drones to follow , Pose recognition and photogrammetry.
+##### Drones : Writing python scripts for creating sequences of actions for drones to follow , Pose recognition and photogrammetry.
 
 ### Dubai Holiday Camps / Assistant Teacher 
 July  2017 - July  2019,  DIA, Dubai
