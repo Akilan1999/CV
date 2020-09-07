@@ -14,25 +14,34 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 
 ### Fields:
 Web Development 
+
 IOT Development
+
 Decentralizing data (i.e ipfs cluster)
 
 ### Programming Languages:
 Node js
+
 Python
+
 C
 
 ### Databases:
 MySQL
+
 Mongodb
 
 ### Tools:
 Node-red
-Frameworks:
+### Frameworks:
 Bootstrap 
+
 Django 
+
 Express 
+
 Flask
+
 Hugo
 
 
