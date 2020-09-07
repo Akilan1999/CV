@@ -20,11 +20,9 @@ IOT Development
 Decentralizing data (i.e ipfs cluster)
 
 ### Programming Languages:
-Node js
-
-Python
-
-C
+- Node js
+- Python
+- C
 
 ### Databases:
 MySQL
