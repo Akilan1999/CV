@@ -7,7 +7,7 @@ Dubai,UAE
 - Linkedin: https://www.linkedin.com/in/akilan-selvacoumar/
 - Github: https://github.com/Akilan1999
 - Website: Akilan.io
-ㅡ
+
 ## Skills
 
 My vision is to contribute as much as I can to the scientific and future entrepreneur community regarding higher self sustainability.
@@ -39,7 +39,6 @@ Decentralizing data (i.e ipfs cluster)
 
 
 
-ㅡ
 ## Experience
 
 ### Heriot Watt / Tech Club President 
@@ -58,17 +57,16 @@ https://ioe.hwtech.club/
 
 #### Drones : Writing python scripts for creating sequences of actions for drones to follow , Pose recognition and photogrammetry.
 
-#### Dubai Holiday Camps / Assistant Teacher 
+### Dubai Holiday Camps / Assistant Teacher 
 July  2017 - July  2019,  DIA, Dubai
 My role as an assistant teacher was to just make sure that kids have as much fun as possible by getting involved in various sports such as Football, Baseketball , Tennis , Dodgeball etc...
-ㅡ
+
 ## Education
 
 ### Heriot Watt / Bsc (Hons) Computer Science(Year 3)
 September 2017 - PRESENT
 #### Courses Taken:
-Software Development 1 [SD1](Basics of java)
-
+- Software Development 1 [SD1](Basics of java)
 - Logic and Proof[LP](Fundamental mathematics of computers)
 - Software Development 2 [SD2](Ways to test and reduce repetition of code)
 - Software Development 3 [SD3] (Into to basics data structures)
