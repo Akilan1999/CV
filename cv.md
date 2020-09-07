@@ -3,10 +3,10 @@
 ## Not Boring Developer
 Dubai,UAE
 
-Mail: me@akilan.io
-Linkedin: https://www.linkedin.com/in/akilan-selvacoumar/
-Github: https://github.com/Akilan1999
-Website: Akilan.io
+- Mail: me@akilan.io
+- Linkedin: https://www.linkedin.com/in/akilan-selvacoumar/
+- Github: https://github.com/Akilan1999
+- Website: Akilan.io
 ㅡ
 ## Skills
 
@@ -25,22 +25,17 @@ Decentralizing data (i.e ipfs cluster)
 - C
 
 ### Databases:
-MySQL
-
-Mongodb
+- MySQL
+- Mongodb
 
 ### Tools:
-Node-red
+- Node-red
 ### Frameworks:
-Bootstrap 
-
-Django 
-
-Express 
-
-Flask
-
-Hugo
+- Bootstrap 
+- Django 
+- Express 
+- Flask
+- Hugo
 
 
 
@@ -74,31 +69,19 @@ September 2017 - PRESENT
 #### Courses Taken:
 Software Development 1 [SD1](Basics of java)
 
-Logic and Proof[LP](Fundamental mathematics of computers)
-
-Software Development 2 [SD2](Ways to test and reduce repetition of code)
-
-Software Development 3 [SD3] (Into to basics data structures)
-
-Data Structures and Algorithms [DSA] (continuation of SD3 with introduction to useful algorithms)
-
-Web Programming [WP](Creating websites using Node js , Php)
-
-Programming Languages [PL] (Intro to Python , SML ,Prolog)
-
-Interaction Design [ID] (Working in the prototyping stage)
-
-Hardware Software Interaction[HSI](Working on C , Assembly)
-
-Software Design [SD] (Intro to UML , Agile )
-
-Database Management System [DBMS] (In-Depth understanding of SQL [Query optimization, ER -Diagrams])
-
-Discrete Math [DM] (Built up of LP)
-
-Foundations 1 : Introduction to lambda calculus 
-
-Data Communication: Introduction to routing protocols used by ISPs
+- Logic and Proof[LP](Fundamental mathematics of computers)
+- Software Development 2 [SD2](Ways to test and reduce repetition of code)
+- Software Development 3 [SD3] (Into to basics data structures)
+- Data Structures and Algorithms [DSA] (continuation of SD3 with introduction to useful algorithms)
+- Web Programming [WP](Creating websites using Node js , Php)
+- Programming Languages [PL] (Intro to Python , SML ,Prolog)
+- Interaction Design [ID] (Working in the prototyping stage)
+- Hardware Software Interaction[HSI](Working on C , Assembly)
+- Software Design [SD] (Intro to UML , Agile )
+- Database Management System [DBMS] (In-Depth understanding of SQL [Query optimization, ER -Diagrams])
+- Discrete Math [DM] (Built up of LP)
+- Foundations 1 : Introduction to lambda calculus 
+- Data Communication: Introduction to routing protocols used by ISPs
 
 
 
