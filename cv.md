@@ -13,11 +13,9 @@ Dubai,UAE
 My vision is to contribute as much as I can to the scientific and future entrepreneur community regarding higher self sustainability.
 
 ### Fields:
-Web Development 
-
-IOT Development
-
-Decentralizing data (i.e ipfs cluster)
+- Web Development 
+- IOT Development
+- Decentralizing data (i.e ipfs cluster)
 
 ### Programming Languages:
 - Node js
