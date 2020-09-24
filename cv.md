@@ -40,6 +40,12 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 
 ## Experience
 
+### PlanetScale / Intern 
+July 2020 - PRESENT, Remote
+Working on an open source project to benchmark the project Vitess (A database clustering system for horizontal scaling of MySQL).
+Links : 
+https://github.com/vitessio/arewefastyet
+
 ### Heriot Watt / Tech Club President 
 November 2018 - PRESENT,  Academic City , Dubai , UAE
 My role as tech club president is to work on projects that seem to help towards building a strong community.
