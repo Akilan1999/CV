@@ -22,6 +22,7 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 - Node js
 - Python
 - C
+- Go 
 
 ### Databases:
 - MySQL
@@ -29,6 +30,7 @@ My vision is to contribute as much as I can to the scientific and future entrepr
 
 ### Tools:
 - Node-red
+
 ### Frameworks:
 - Bootstrap 
 - Django 
